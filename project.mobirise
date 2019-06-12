@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "46thPresident.org",
+    "name": "Would Wouldn't",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
     "uniqCompNum": 55,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/wdnt-128x85.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"
@@ -239,7 +239,7 @@
               "size": 250
             }
           },
-          "title": "The website was named before 46thPresident.org\n<div>To avoid confusion, we switched to would-wouldn't.</div>",
+          "title": "The website was named before 46thPresident.org\n<div>To avoid confusion, we switched to would-wouldn't.</div><br><div>Stay tuned!</div>",
           "text": "<b>For IP and R&amp;D purposes, only invited visitors knew about this website. Our websites are not showing on the search engines, we're a B2B startup that invent projects and make deals with other companies or agencies, NOT&nbsp;individuals.&nbsp;</b>",
           "_tags": [
             "Theme"
@@ -709,7 +709,7 @@
           "text6": ".",
           "form": {
             "title": "MESSAGE",
-            "action": "contact@beyondtheboxinc.com",
+            "action": "contactbeyondthebox@gmail.com",
             "alerts": {
               "success": "We appreciate you contacting us, we will reply ASAP!"
             },

@@ -414,6 +414,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #28324e;
 }
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   padding: 0.9rem;
 }
@@ -544,8 +547,8 @@ section.form .container {
   font-size: 10px;
 }
 #contacts3-4 P {
-  font-family: 'Roboto', sans-serif;
-  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
 }
 #contacts3-4 SPAN {
   color: #ffffff;

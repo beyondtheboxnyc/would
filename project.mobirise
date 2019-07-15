@@ -16,8 +16,8 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 55,
+    "uniqCompNum": 51,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/wdnt-128x85.png",
@@ -703,10 +703,10 @@
           "title1": "Go big or go home! \n<div>\n</div><div>\"For such a tiny company like us, picking the motto of \"go big or go home\" is definitely a gamble, but we will continue to invent the next big thing, no matter how much of an uphill battle is it\"</div>",
           "text1": "<b>© 2018 \n<br>All Rights Reserved \n<br>Beyond The Box R&amp;D, Inc \n<br>NYS/DOS ID #5345948</b>",
           "text2": "Only text Adam at: \n<br><b><a href=\"tel:+1-347-3834942 \" class=\"text-danger\">+1 (347) 383-4942 \n</a><br></b>You may get a call back.&nbsp;",
-          "text3": "Beyond The Box, Inc \n<br>175 Varick St, [WeWork]\n<br>New York, NY 10014&nbsp;",
-          "text4": "Contactbeyondthebox@gmail.com<br>",
-          "text5": ".",
-          "text6": ".",
+          "text3": "Beyond The Box R&amp;D, Inc \n<br>106 W 32nd St - [The Yard] \n<br>New York, NY 10001&nbsp;",
+          "text4": "<a href=\"mailto:contactbeyondthebox@gmail.com\" class=\"text-danger\">contact@beyondtheboxinc.com</a><br>",
+          "text5": "For meetings, please email us in advance to book a meeting room at 106 W 32nd St, New York, NY 10001.",
+          "text6": "Registered at the Department of State in New York State under ID #5345948 \n<br>\n<br>Our customer number at the United States Patent and Trademark Office is #000162504 \n<br>\n<br>Our customer number at the United States Copyright Office is &nbsp;#1-4356531350<br><br><br><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "contactbeyondthebox@gmail.com",
@@ -746,9 +746,9 @@
               "font-size": "10px"
             },
             "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "10px"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "12px"
             },
             "SPAN": {
               "color": "#ffffff"
